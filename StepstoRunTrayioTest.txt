@@ -4,10 +4,10 @@ Pre-requisite:
 
 Steps to Run the test :-
 
-1. Run "npm install cypress" command in Visual Sudio Code terminal.
-2. Nw Run "npx cypress open" command (Cypress modal with spec.js files name should open)
-3. Place the Trayio.spec.js file in Explorer>Cypress Folder>Integration>examples and save
-4. Trayio.spec.js should apear in the modal openned earlier
-5. Click the file to run the test
+1. Run "npm install cypress" command in Visual Studio Code terminal.
+2. Now Run "npx cypress open" command (Cypress modal with spec.js files name should open)
+3. Place the Trayio.spec.js file in Explorer>Cypress(Folder)>Integration>examples and save
+4. Trayio.spec.js should apear in the modal opened earlier, click this file to runn the test
 
 
+Cypress test files can be easily extended to add and run more test. It defines a standard framework which can be extended with minimum changes in the folder structure. It would capture your screenshots on failure automatically.
